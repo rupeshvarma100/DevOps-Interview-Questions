@@ -1,4 +1,4 @@
-CAPGEMINI DevOps Interview Questions:
+**CAPGEMINI DevOps Interview Questions:**
 
 1. You have three nodes — Node-1, Node-2, and Node-3. How will you deploy one service specifically on Node-2?
     
@@ -51,5 +51,7 @@ CAPGEMINI DevOps Interview Questions:
 22. Different types of services in Kubernetes?
 
 23. In a multi-cloud environment, if you want to block a pod to go into a particular node, how would you do it?
-PVC.
-If we can use terraform import for existing AWS resources which are not created by Terraform, then what is the use of data source?
+
+24. PVC.
+
+25. If we can use terraform import for existing AWS resources which are not created by Terraform, then what is the use of data source?
