@@ -1,0 +1,55 @@
+CAPGEMINI DevOps Interview Questions:
+
+1. You have three nodes — Node-1, Node-2, and Node-3. How will you deploy one service specifically on Node-2?
+    
+2. What are the stages that you will involve in your CI part, and what would be the commands for those respective stages?
+
+3. Can you give simple code examples for all CI stages?
+
+4. The environment is set up in which agent?
+
+5. What does -Dsonar.projectKey=sample-app mean?
+
+6. What would be the onboarding steps for a new application on EKS?
+
+7. You mentioned you are scanning the code for code quality — what would be the default configuration set for the threshold value?
+
+   --Change that from 80 to 90 — where is that option and how can I do that?
+
+8. There are two projects, ABC and XYZ. I want to set the threshold value of code quality check for 70% for ABC and 80% for XYZ. Can I do that?
+
+9. I want to check the vulnerabilities in my code. How can I do that? I want to check the vulnerabilities available in my project.
+
+10. What is the difference between NAT Gateway and IGW?
+
+11. If your pod is in Pending state, then what are your troubleshoot steps?
+
+12. Can you tell me the difference between secondary RDS and read-only RDS?
+		--So have you built the RDS of your own or you have managed it only?
+			--You have RDS and tomorrow, I being your client, will tell you that you need to make the configuration in such a way so that only one user can access the RDS at a time. How will you configure that?
+
+13. To upgrade the version of DB in RDS, suppose you have 7.0 MySQL installed, and you want to upgrade it into 8.0 and above. What is the process?
+
+14. In a multi-account environment, if the resources are residing in one account and the users are in different accounts, how will you configure so that the user can access the resources?
+
+15. Because you are telling it from the IAM perspective, what about the VPC?
+
+16. You have an EC2 instance and you would like to migrate it from one region to another. How will you do it?
+
+17. You want to create an EC2, and while creating the instance, you are getting an error like IP address exceeded. How will you troubleshoot and fix it? 
+  --That we can extend the subnet CIDR once it is created?
+		--Once you create that subnet, the instance will get created, but will it be able to communicate with the old instances?
+
+18. Asking different provisiors
+
+19. If you want to remove this Terraform state log file, how will you remove it?
+
+20. How will I remove state file from locking?
+
+21. Suppose you have created an EC2 instance by logging into the AWS console. And now you would like to manage it using Terraform. How shall you do it?
+
+22. Different types of services in Kubernetes?
+
+23. In a multi-cloud environment, if you want to block a pod to go into a particular node, how would you do it?
+PVC.
+If we can use terraform import for existing AWS resources which are not created by Terraform, then what is the use of data source?
