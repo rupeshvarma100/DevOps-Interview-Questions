@@ -1,0 +1,3 @@
+1. Application stopped post deployment how to trouble shoot proactively?
+    --If a deployment is running in Kubernetes, I first use kubectl describe pod <pod-name> to review the pod’s details and identify any potential issues or events. 
+      If no clear errors are found there, I then check the container logs using kubectl logs <pod-name> to gather more information and troubleshoot based on the error messages observed.
