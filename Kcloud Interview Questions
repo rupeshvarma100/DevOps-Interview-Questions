@@ -1,0 +1,22 @@
+Kcloud interview questions 
+
+1. Do you have experience building full end-user products on AWS?
+
+2. What was the major challenge you faced while creating documentation?
+
+3. Can you explain your experience with Elasticsearch and OpenSearch in AWS?
+
+4. How do you ensure high availability for a web application in AWS?
+
+5. What is IaC (Infrastructure as Code) and how do you use it?
+
+6. What’s the difference between S3 and EC2 in AWS?
+
+7. Your website hosted in the US East (N. Virginia) region is slow for users in India — how would you fix it?
+
+8. Your S3 data got accidentally deleted — how would you prevent this in the future?
+
+9. How do you deploy an application securely on AWS?
+
+10. Write a Lambda function in Python to read data from an S3 bucket and print all file names.
+    --Explain each line of the Lambda function
